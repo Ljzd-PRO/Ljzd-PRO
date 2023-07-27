@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Python**, **Swift**, **Java**
 - 🤔 I’m looking for help with [**this issue**](https://github.com/Ljzd-PRO/Mys_Goods_Tool/issues/12)
-- 📫 How to reach me: [**📧 ljzd@office.ljzd-pro.ml**](mailto:ljzd@office.ljzd-pro.ml)
+- 📫 How to reach me: ~~[**📧 ljzd@office.ljzd-pro.ml**](mailto:ljzd@office.ljzd-pro.ml)~~
 
 <!-- Original
 **Ljzd-PRO/Ljzd-PRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
