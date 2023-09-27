@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning **Python**, **Swift**, **Java**
+- 🌱 I’m currently learning **Python**, **TypeScript**, **Java**
 - 🤔 I’m looking for help with [**this issue**](https://github.com/Ljzd-PRO/Mys_Goods_Tool/issues/12)
 - 📫 How to reach me: [**📧 ljzd@office.ljzd-pro.asia**](mailto:ljzd@office.ljzd-pro.asia)
 
