@@ -6,15 +6,12 @@
 
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 📫 How to reach me: [**📧 ljzd@office.ljzd-pro.asia**](mailto:ljzd@office.ljzd-pro.asia)
-
 <!-- Original
 **Ljzd-PRO/Ljzd-PRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 📫 How to reach me: [**📧 ljzd@ljzd.link**](mailto:ljzd@ljzd.link)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
