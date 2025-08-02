@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N51J14RW)
+
 ## Gists
 
 - [Extract All Files in PikPak Directory Online](https://gist.github.com/Ljzd-PRO/50f37f350b78fd1835e7066d7487cd61)
